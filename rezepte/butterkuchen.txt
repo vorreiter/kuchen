@@ -3,3 +3,5 @@ Butter
 Zucker
 Eier
 Mehl
+Salz
+Hefe
