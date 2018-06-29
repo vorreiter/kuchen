@@ -3,5 +3,5 @@ Hefeteig
 Knetteig
 Mürbeteig
 Sauerteig
-Erdbeeren
-Zuckerteig
+Fertigteig
+Brotteig
