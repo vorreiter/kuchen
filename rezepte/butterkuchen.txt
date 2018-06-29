@@ -5,3 +5,4 @@ Eier
 Mehl
 Salz
 Hefe
+Mandeln
