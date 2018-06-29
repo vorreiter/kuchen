@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Willkommen beim oncampus Kuchen Projekt
 
-You can use the [editor on GitHub](https://github.com/oncampus/kuchen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Kuchen ist ein wichtiger Bestandteil des [oncampus](https://www.oncampus.de)-Gefühls.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nicht auszudenken wie es bei oncampus ohne Kuchen aussehen würde.
 
-### Markdown
+### Kuchenfluch
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Was hat es damit auf sich?
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
